@@ -1,4 +1,4 @@
-# mix_color
+# mix-color
 simple two-color mixer from three primary colors:
 - red
 - blue
